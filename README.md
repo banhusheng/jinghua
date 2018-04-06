@@ -5,7 +5,7 @@
 <p align="center">
 	<a href="jinghua.md">什么是精华列表</a>&nbsp;&nbsp;&nbsp;
 	<a href="contributing.md">贡献指南</a>&nbsp;&nbsp;&nbsp;
-	<a href="#">公众号</a>
+	<a href="static/wechat_banhusheng.jpg" title="">公众号</a>
 </p>
 
 ## 目录
