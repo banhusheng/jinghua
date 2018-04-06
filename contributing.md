@@ -3,7 +3,7 @@
 
 <br/>
 <strong>
-1. Pull Request 要有有效的标题。使用`Update README.md`作为标题的请求将被立即关闭。
+1. Pull Request 要有有效的标题。使用`Update README.md`作为标题的请求将被立即关闭。<br/>
 2. 请仔细阅读本指南的所有内容。
 </strong>
 
@@ -39,4 +39,4 @@
 
 <br/>
 
-[这里](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md) 是一篇关于如何更改合并请求的文章。
+[这里](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md) 有关于如何更改合并请求的文章。
