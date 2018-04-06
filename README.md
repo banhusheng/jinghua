@@ -1,6 +1,4 @@
-<h1 align="center">
-	<img width="360" src="static/jinghua-lg.svg" alt="精华" />
-</h1>
+<h1 align="center"><img width="360" src="static/jinghua-lg.svg" alt="精华" /><br/><br/></h1>
 
 <p align="center">
 	<a href="jinghua.md">什么是精华列表</a>&nbsp;&nbsp;&nbsp;
