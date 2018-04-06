@@ -5,10 +5,10 @@
 
 ## 目录
 
-- [添加到此列表]（#添加到此列表）
-- [创建你自己的真棒列表]（#创建你自己的真棒列表）
-- [将一些东西添加到一个真棒列表]（#添加一些东西到一个真棒列表）
-- [更新您的 Pull Request]（#更新您的拉取请求）
+- [添加到此列表](#添加到此列表)
+- [创建你自己的真棒列表](#创建你自己的真棒列表)
+- [将一些东西添加到一个真棒列表](#添加一些东西到一个真棒列表)
+- [更新您的 Pull Request](#更新您的拉取请求)
 
 ## 添加到此列表
 
@@ -34,4 +34,4 @@
 ## 更新您的 Pull Request
 有时候，维护者会要求您在内容被收纳之前编辑您的 Pull Request。这通常是由于拼写错误或因为您的PR与精华列表准则不匹配。
 
-[这里]（https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md）是一篇关于如何更改合并请求的文章。
+[这里](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md) 是一篇关于如何更改合并请求的文章。
