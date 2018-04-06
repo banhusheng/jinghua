@@ -1,13 +1,14 @@
 # 贡献指南
 请注意，本项目是通过[参与者行为准则]（code-of-conduct.md）发布的。通过参与此项目，您同意遵守其条款。
 
-## Pull Request 要有一个有效的标题。使用`Update README.md`作为标题的请求将被立即关闭。请仔细阅读 “添加到此列表” 中的所有内容。
+**Pull Request 要有一个有效的标题。使用`Update README.md`作为标题的请求将被立即关闭。请仔细阅读本指南的所有内容。**
+
+<br/>
 
 ## 目录
 
 - [添加到此列表](#添加到此列表)
-- [创建你自己的真棒列表](#创建你自己的真棒列表)
-- [将一些东西添加到一个真棒列表](#添加一些东西到一个真棒列表)
+- [创建你自己的真棒列表](#创建您的精华列表)
 - [更新您的 Pull Request](#更新您的拉取请求)
 
 ## 添加到此列表
@@ -27,11 +28,11 @@
 
 ## 创建您的精华列表
 - 阅读精华宣言并确保您的内容符合要求。
-- 您的精华项目最好命名为 awesome-XXXX，并拥有精华徽章，许可和贡献指南。另外，强烈建议添加[行为准则](https://www.contributor-covenant.org/zh-cn/version/1/4/code-of-conduct)。 
+- 推荐将您的精华项目命名为 jinghua-XXXX，并拥有精华徽章，许可和贡献指南。另外，强烈建议添加[行为准则](https://www.contributor-covenant.org/zh-cn/version/1/4/code-of-conduct)。 
 - 在提交之前至少等待一个月，等内容成熟之后再提交。
 - 请确保在请求添加之前阅读此贡献准则。
 
-## 更新您的 Pull Request
+## 更新您的拉取请求
 有时候，维护者会要求您在内容被收纳之前编辑您的 Pull Request。这通常是由于拼写错误或因为您的PR与精华列表准则不匹配。
 
 [这里](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md) 是一篇关于如何更改合并请求的文章。
