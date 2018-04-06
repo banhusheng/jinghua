@@ -24,21 +24,10 @@
 
 ## 精华提到徽章
 
-此徽章适用于在精华列表中提及的项目（**不适用于精华列表**）。例如，[Chalk](https://github.com/chalk/chalk)项目可以使用此徽章，因为它已列在[Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs)中， 。这对于项目来说是完全可选的，但是这是一个很好的方式来显示他们已经被列入Awesome列表中。
+此徽章适用于在精华列表中提及的项目（**不适用于精华列表**）。这对于项目来说是完全可选的，但是这是一个很好的方式来显示他们已经被列入精华列表中。
 
 [![精华](static/jinghua.svg)](https://github.com/banhusheng/jinghua)
 
-**填写占位符（名称和URL）：**
-
-```MD
-[![精华 <项目名称>](static/jinghua.svg)](https://github.com/ <INSERT LIST URL>)
-```
-
-例：
-
-```MD
-[![精华 Node.js中提到](static/jinghua.svg)](https://github.com/sindresorhus/awesome-nodejs)
-```
 
 如果你是一个很棒的列表维护者，你可以鼓励列表中的项目添加徽章。
 
