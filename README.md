@@ -1,9 +1,9 @@
-<h1 align="center"><img width="360" src="static/jinghua-lg.svg" alt="精华" /><br/></h1>
+<h1 align="center"><img width="360" src="static/jinghua-lg.svg" alt="精华" /><br/><br/></h1>
 
 <p align="center">
 	<a href="jinghua.md">什么是精华列表</a>&nbsp;&nbsp;&nbsp;
 	<a href="contributing.md">贡献指南</a>&nbsp;&nbsp;&nbsp;
-	<a href="static/wechat_banhusheng.jpg" title="">公众号</a>
+	<a href="static/wechat_banhusheng.jpg" title="">公众号</a><br/>
 </p>
 
 ## 目录
