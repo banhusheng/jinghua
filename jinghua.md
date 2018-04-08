@@ -14,12 +14,12 @@
 
 此徽章适用于精华列表。
 
-[![精华(static/jinghua.svg)](https://github.com/banhusheng/jinghua)
+[![精华](static/jinghua.svg)](https://github.com/banhusheng/jinghua)
 
-在列表顶部添加一个精华徽章，位于标题旁边。 [实施例](https://github.com/banhusheng/jinghua)。
+在列表顶部添加一个精华徽章，位于标题旁边。 [示例](https://github.com/banhusheng/jinghua)。
 
 ```MD
-[![精华(static/jinghua.svg)(https://github.com/banhusheng/jinghua)
+[![精华](static/jinghua.svg)](https://github.com/banhusheng/jinghua)
 ```
 
 *徽章不得以任何方式修改。*
