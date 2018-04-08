@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="106" height="20">
+  <linearGradient id="b" x2="0" y2="100%"><stop offset="0" stop-color="#bbb" stop-opacity=".1"/><stop offset="1" stop-opacity=".1"/></linearGradient>
+  <clipPath id="a"><rect width="106" height="20" rx="3" fill="#fff"/></clipPath>
+  <g id="outline" clip-path="url(#a)">
+    <path fill="#fe7d37" d="M0 0h40v20H0z"/>
+    <path fill="#555" d="M40 0h66v20H40z"/>
+    <path fill="url(#b)" d="M0 0h106v20H0z"/>
+  </g>
+  <g id="texts" fill="#fff" text-anchor="middle" font-family="PingFang SC,Microsoft Yahei,Verdana,sans-serif" font-size="110">
+    <text x="620" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="230">精华</text>
+    <text x="620" y="140" transform="scale(.1)" textLength="230">精华</text>
+  </g>
+  <g id="texts2" transform="translate(2,2.7)" fill="#fff" text-anchor="middle" font-family="PingFang SC,Microsoft Yahei,Verdana,sans-serif" font-size="100">
+    <text x="1050" y="150" fill="#010101" fill-opacity=".3" transform="scale(.08)" textLength="210">提到</text>
+    <text x="1050" y="140" transform="scale(.08)" textLength="210">提到</text>
+  </g>
+  <g>
+    <path fill="#FFFFFF" d="M25.5,16.2c0.2-0.1,0.3-0.2,0.3-0.4l0.5-3.7l3.4-1.7c0.2-0.1,0.3-0.2,0.3-0.4s-0.1-0.3-0.3-0.4l-3.4-1.7l-0.5-3.7
+      c0-0.2-0.2-0.3-0.3-0.4c-0.2-0.1-0.4,0-0.5,0.1l-2.6,2.7L18.6,6c-0.2,0-0.4,0-0.5,0.2c-0.1,0.1-0.1,0.3,0,0.5l1.8,3.3l-1.8,3.3
+      c0,0.1-0.1,0.1-0.1,0.2c0,0.1,0,0.2,0.1,0.3c0.1,0.1,0.3,0.2,0.5,0.2l3.7-0.6l2.6,2.7C25.1,16.2,25.3,16.2,25.5,16.2z M22.9,12.6
+      c-0.1-0.1-0.3-0.2-0.4-0.1l-3,0.5l1.4-2.7c0.1-0.1,0.1-0.3,0-0.4l-1.4-2.7l3,0.5c0.2,0,0.3,0,0.4-0.1L25,5.3l0.4,3
+      c0,0.2,0.1,0.3,0.3,0.3l2.7,1.4l-2.7,1.4c-0.1,0.1-0.2,0.2-0.3,0.4l-0.4,3L22.9,12.6z"/>
+    <path fill="#FFFFFF" d="M16.7,13.3c0-0.3-0.2-0.5-0.5-0.5H9.6c-0.3,0-0.5,0.2-0.5,0.5c0,0.3,0.2,0.5,0.5,0.5h6.6C16.5,13.8,16.7,13.6,16.7,13.3
+      L16.7,13.3z"/>
+    <path fill="#FFFFFF" d="M18.2,10c0-0.3-0.2-0.5-0.5-0.5h-6.8c-0.3,0-0.5,0.2-0.5,0.5c0,0.3,0.2,0.5,0.5,0.5h6.8C18,10.5,18.2,10.3,18.2,10z"/>
+    <path fill="#FFFFFF" d="M16.7,6.7c0-0.3-0.2-0.5-0.5-0.5H9.6c-0.3,0-0.5,0.2-0.5,0.5c0,0.3,0.2,0.5,0.5,0.5h6.6C16.5,7.2,16.7,7,16.7,6.7z"/>
+  </g>
+</svg>
