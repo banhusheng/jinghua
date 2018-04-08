@@ -14,7 +14,7 @@
 
 此徽章适用于精华列表。
 
-[![精华(static/jinghua.svg)(https://github.com/banhusheng/jinghua)
+[![精华(static/jinghua.svg)](https://github.com/banhusheng/jinghua)
 
 在列表顶部添加一个精华徽章，位于标题旁边。 [实施例](https://github.com/banhusheng/jinghua)。
 
@@ -28,20 +28,20 @@
 
 此徽章适用于在精华列表中提及的项目（**不适用于精华列表**）。这对于项目来说是完全可选的，但是这是一个很好的方式来显示他们已经被列入精华列表中。
 
-[![精华](static/jinghua.svg)](https://github.com/banhusheng/jinghua)
+[![精华](static/jinghua_mentioned.svg)](https://github.com/banhusheng/jinghua)
 
 
 如果你是一个很棒的列表维护者，你可以鼓励列表中的项目添加徽章。
 
 *徽章不得以任何方式修改。*
 
-##评论为什么有些东西太棒了
+## 评论为什么有些内容为精华了
 
 除了在列表中建议特定项目外，您还应该通知读者*为什么列表中的项目以及他们如何从中受益。
 
 ## 清楚列表的内容
 
-在自述文件的顶部有一个简洁的描述。确保你的列表覆盖了一定的范围，没有别的。如果您认为他们已经足够好地覆盖某个主题，请链接到其他精彩列表。
+在自述文件的顶部有一个简洁的描述。确保你的列表覆盖了一定的范围，没有别的。如果您认为他们已经足够好地覆盖某个主题，请链接到其他精华列表。
 
 ## 注意语法
 
